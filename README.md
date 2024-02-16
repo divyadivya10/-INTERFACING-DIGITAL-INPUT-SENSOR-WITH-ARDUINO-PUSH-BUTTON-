@@ -58,7 +58,6 @@ Clock Speed	16 MHz
 
 
 
-FIGURE -03
 
 
 
